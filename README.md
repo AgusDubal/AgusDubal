@@ -1,16 +1,13 @@
-### Hi there 👋
+# Buenas! Soy Agus Dubal :bowtie:
+- *Estudio en:* IMPA T.R.Q. EEST N°7
+- *Curso:* 4°1° Avc
+- *Edad:* 15
+- *Cumpleaños:* 05/06
+- *Estoy en:* 
+  - [Instagram](https://www.instagram.com/agus_dubal/?hl=es-la)
+  - [Twitter](https://twitter.com/agusdoubal?s=09)
+  - [Steam](https://steamcommunity.com/id/AgusD06/)
 
-<!--
-**AgusDubal/AgusDubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Homero](https://i.ytimg.com/vi/XiROVWIAPiM/hqdefault.jpg)
+>*"Se que oyes mis pensamientos muchacho. Ñamñamñamñamñamñamñamñamñam ñam ñam ñam"*
+>\-__*Homero Simpson*__
